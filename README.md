@@ -1,2 +1,3 @@
-# First-Code-In-Python
-My first repo 
+# First-Code-In-
+My first Git repository
+Author - Siddahrth Yadav
